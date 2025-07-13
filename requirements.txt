@@ -1,0 +1,7 @@
+torch
+numpy
+librosa
+openai-whisper
+pyannote.audio
+python-dotenv
+Flask
